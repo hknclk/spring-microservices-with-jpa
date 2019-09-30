@@ -22,4 +22,4 @@ Tüm projeler başladıktan sonra:
 
 <b>Örnek API çağrısı (API GW Üzerinden):</b> http://localhost:8060/department/hello
 
-Örnek API istekleri için postman collection'ına bakabilirsiniz
+Örnek API istekleri için resources klasöründeki postman collection'ına bakabilirsiniz
